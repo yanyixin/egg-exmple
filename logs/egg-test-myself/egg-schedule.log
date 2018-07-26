@@ -1,0 +1,8 @@
+2018-07-26 16:29:02,465 INFO 86462 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-07-27 00:00:00.000
+2018-07-26 16:29:02,465 INFO 86462 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-07-27 00:00:01.000
+2018-07-26 16:44:15,590 INFO 89648 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-07-27 00:00:00.000
+2018-07-26 16:44:15,591 INFO 89648 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-07-27 00:00:01.000
+2018-07-26 17:03:14,791 INFO 93529 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-07-27 00:00:00.000
+2018-07-26 17:03:14,792 INFO 93529 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-07-27 00:00:01.000
+2018-07-26 17:11:34,413 INFO 95373 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-07-27 00:00:00.000
+2018-07-26 17:11:34,413 INFO 95373 [Timer] /Users/yanmeng/2018FE/node/egg-test-myself/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-07-27 00:00:01.000
